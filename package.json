@@ -2,7 +2,7 @@
   "name": "vault-env-client",
   "version": "0.0.1",
   "description": "Vault client for ENV manipulation",
-  "install": "bpkg install brunif/vault-env-client",
+  "install": "make install",
   "scripts": [ "vault_config.sh", "vault_get.sh", "vault_put.sh" ]
 
 }
