@@ -1,0 +1,7 @@
+{
+  "name": "vault-env-client",
+  "version": "0.0.1",
+  "description": "Vault client for ENV manipulation",
+  "install": "bpkg install tenantcloud/vault-client",
+  "scripts": [ "vault-client.sh" ]
+}
