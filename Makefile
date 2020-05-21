@@ -8,5 +8,5 @@ install:
 uninstall:
 	rm -rf $(PREFIX)/bin/$(BIN)
 
-.PHONY: echo "Done"
+.PHONY: install
 
